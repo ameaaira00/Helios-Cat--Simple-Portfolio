@@ -1,4 +1,5 @@
 # Helios-Cat--Simple-Portfolio
 Based on fbc portfolio
 
-This project is a clone of my fcb-portfolio, and is published at https://ameaaira00.github.io/Helios-Cat--Simple-Portfolio/
+This simple project is a clone of my fcb-portfolio, created using HTML & CSS Bootsrap. 
+This is published at https://ameaaira00.github.io/Helios-Cat--Simple-Portfolio/
